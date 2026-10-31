@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: linear-gradient(90deg, #0b1b3a 0%, #1d4ed8 100%);
+  min-height: 100vh;
+  padding: 20px;
+}
+
+.header {
+  background: rgba(255, 255, 255, 0.7);
+  border-radius: 20px;
+  padding: 20px;
+  -webkit-backdrop-filter: blur(12px);
+  backdrop-filter: blur(12px);
+}
+
+.header h1 {
+  margin: 0;
+  color: #12356d;
+}
+
+.header p {
+  margin-top: 8px;
+  color: #12356d;
+}
